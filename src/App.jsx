@@ -41,7 +41,7 @@ function App() {
 
   return (
     <div style={{ padding: "20px" }}>
-      <h2>コピーボタン横に通知</h2>
+      <h2>集結主の名前と秒数を入力してくださいs</h2>
 
       {entries.map((entry, index) => (
         <div key={index} style={{ marginBottom: "10px" }}>
